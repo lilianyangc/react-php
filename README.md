@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+----------
+# How to Connect React JS with PHP Server Tutorial 9/14/2023
+By Eazy2Code 
+
+PHP server fix by: Lilian Yang ^^V 8/31/2024
+
+
+## To start using the Web App:
+1. Copy the repo
+2. Start App from terminal (Instructions Below [A])
+3. Start PHP Server terminal (Instructions Below [B])
+4. Enjoy!
+
+### A. To start App:
+1. Go into react-php directory
+2. Run: npm run build
+3. Run: npm start
+
+### B. To start PHP Server
+1. Go into PHP folder
+2. Run: PHP -S localhost:8000
+
+
+
+
+
